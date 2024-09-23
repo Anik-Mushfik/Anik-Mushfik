@@ -4,7 +4,7 @@ I'm currently pursuing a **B.Sc. in Data Science**, with a deep interest in data
 
 - 🌱 **Currently Learning**: Machine Learning and AI
 - 🔭 **Current Project**: Monkeypox Prediction Application
-- 💬 **Ask me about**: Data Analysis, Machine Learning, Python
+- 💬 **Ask me about**: Data Analysis, Machine Learning, Python, HTML, Web Scraping
 - 🎯 **Hobbies**: Competitive Programming, Photography
 - 🌌 **Interest**: Space
 - 👥 **Open to**: Collaborations and job opportunities in data science and machine learning
@@ -14,8 +14,10 @@ I'm currently pursuing a **B.Sc. in Data Science**, with a deep interest in data
 ## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=machine-learning)
 ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-05122A?style=flat&logo=chart-bar)
+![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-05122A?style=flat&logo=web)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
