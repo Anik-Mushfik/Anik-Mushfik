@@ -41,7 +41,7 @@ I'm currently pursuing a **B.Sc. in Data Science**, with a deep interest in data
 
 ## 🌟 Featured Project
 
-- [Monkeypox Prediction App]([https://github.com/Anik-Mushfik/monkeypox-prediction-app)
+- [Monkeypox Prediction App](https://github.com/Anik-Mushfik/monkeypox-prediction-app)
 
 ---
 
