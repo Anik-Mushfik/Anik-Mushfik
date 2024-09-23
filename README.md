@@ -1,4 +1,4 @@
-# Hi there 👋, I’m Anik Mushfik
+# Hi there 👋, I’m Musfique Ahmed Anik
 
 I'm currently pursuing a **B.Sc. in Data Science**, with a deep interest in data analysis, machine learning, and the power of Python. My curiosity drives me to explore innovative solutions across different fields, including space exploration and AI technology.
 
