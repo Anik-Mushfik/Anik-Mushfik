@@ -35,8 +35,8 @@ I'm currently pursuing a **B.Sc. in Data Science**, with a deep interest in data
 
 ## 📈 GitHub Activity Graph
 
-![Anik's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Anik-Mushfik&theme=react-dark)
 [![Anik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anik-Mushfik&custom_title=This%20is%20a%20title&hide_border=true)]
+[![Anik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anik-Mushfik&theme=dracula)]
 
 ---
 
