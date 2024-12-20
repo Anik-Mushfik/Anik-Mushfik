@@ -25,25 +25,25 @@ I'm currently pursuing a **B.Sc. in Data Science**, with a deep interest in data
 
 ## 📊 GitHub Stats
 
-![Anik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anik-Mushfik&show_icons=true&theme=radical)
+![Anik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Musfique-Ahmed&show_icons=true&theme=radical)
 
 ---
 
 ## 🔥 GitHub Streaks
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anik-Mushfik&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Musfique-Ahmed&theme=radical)](https://git.io/streak-stats)
 
 ---
 
 ## 📈 GitHub Activity Graph
 
-![Anik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anik-Mushfik&theme=redical)
+![Anik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Musfique-Ahmed&theme=redical)
 
 ---
 
 ## 🌟 Featured Project
 
-- [Monkeypox Prediction App](https://github.com/Anik-Mushfik/monkeypox-perdition-app)
+- [Monkeypox Prediction App](https://github.com/Musfique-Ahmed/monkeypox-perdition-app)
 
 ---
 
